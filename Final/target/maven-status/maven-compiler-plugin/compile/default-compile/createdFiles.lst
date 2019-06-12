@@ -1,0 +1,7 @@
+com/rest/BookController.class
+com/rest/AllApplication.class
+com/rest/BookRepository.class
+com/rest/error/BookNotFoundException.class
+com/rest/error/BookUnSupportedFieldPatchException.class
+com/rest/error/ErrorHandler.class
+com/rest/Book.class
